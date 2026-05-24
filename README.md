@@ -44,7 +44,7 @@ The dashboard helps users understand:
 ## 🖼️ Dashboard Preview
 
 <img width="1341" height="749" alt="Home" src="https://github.com/user-attachments/assets/abc20379-bed0-46d7-9f7d-bcb4465c25d0" />
-<img width="1330" height="741" alt="Dashboard" src="https://github.com/user-attachments/assets/41d36a5a-407c-47d1-af95-c3963538e471" />
+"C:\Users\lenovo\Desktop\Screenshots\Screenshot 2026-05-24 154544.png"
 <img width="1329" height="744" alt="Genre" src="https://github.com/user-attachments/assets/d3dd6afc-e91e-4f50-b1f5-c0b364f939b1" />
 <img width="1323" height="747" alt="Trend Analysis" src="https://github.com/user-attachments/assets/025050d2-c199-4b38-94fb-2dc9093b5e13" />
 
